@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "btbuoi3CSS", "btbuoi3CSS\", "{1F9976A2-2E4B-46F4-B6CB-8613BED1E46E}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_60448"
+		Debug.AspNetCompiler.PhysicalPath = "btbuoi3CSS\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60448\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_60448"
+		Release.AspNetCompiler.PhysicalPath = "btbuoi3CSS\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60448\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "60448"
+		SlnRelativePath = "btbuoi3CSS\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F9976A2-2E4B-46F4-B6CB-8613BED1E46E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F9976A2-2E4B-46F4-B6CB-8613BED1E46E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF3D52F6-94E3-4E75-B857-88549B583E33}
+	EndGlobalSection
+EndGlobal
