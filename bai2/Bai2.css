@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+    width: 2000px;
+}
+
+#div-top {
+    height: 25px;
+    background-color: rgb(91, 75, 75);
+    text-align: left;
+    align-items: center;
+    display: block;
+    color: white;
+    font-size: 25px;
+}
+
+#div-main {
+    display: flex;
+    flex-direction: row;
+}
+
+#div-constant {
+    background-color: lightblue;
+    height: 100px;
+    align-items: center;
+    display: flex;
+    justify-content: right;
+    color: white;
+    font-size: 50px;
+    background-image: url('https://i.pinimg.com/564x/de/af/2d/deaf2d6c9001ed08f2605d1a4a7ea411.jpg');
+    background-position: center;
+}
+
+#div-left {
+    background-color: whitesmoke;
+    width: 50%;
+    height: 740px;
+    display: flex;
+    color: black;
+    font-size: 30px;
+    text-align: initial;
+    padding: 50px;
+}
+
+#div-right {
+    background-color: whitesmoke;
+    width: 50%;
+    display: flex;
+    color: black;
+    font-size: 30px;
+    height: 740px;
+    padding: 50px;
+}
+
+#div-footer {
+    display: flex;
+    flex-direction: row;
+}
+
+#div-bottom-left {
+    background-color: lightblue;
+    height: 90px;
+    display: flex;
+    color: white;
+    font-size: 25px;
+    width: 50%;
+}
+
+#div-bottom-right {
+    background-color: lightblue;
+    height: 90px;
+    display: flex;
+    color: white;
+    font-size: 25px;
+    width: 50%;
+}

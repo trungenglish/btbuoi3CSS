@@ -1,0 +1,93 @@
+body {
+    margin: 0;
+    width: 1500px;
+}
+
+#top {
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid;
+    width: 1500px;
+    background-color: azure;
+}
+
+#top-left {
+    width: 50%;
+    height: 50px;
+    display: flex;
+    color: black;
+    font-size: 30px;
+    text-align: initial;
+    background-color: azure;
+}
+
+#top-right {
+    width: 50%;
+    height: 50px;
+    display: flex;
+    color: black;
+    font-size: 20px;
+    text-align: initial;
+    text-align: right;
+    background-color: azure;
+}
+
+#main {
+    padding: 10px;
+    width: 1500px;
+    height: 300px;
+    text-align: center;
+    background-color: azure;
+}
+
+#constant {
+    display: flex;
+    flex-direction: row;
+    width: 1500px;
+    background-color: azure;
+    text-align: justify;
+}
+
+#c1 {
+    width: 50%;
+    height: 250px;
+    display: flex;
+    color: black;
+    font-size: 30px;
+    text-align: initial;
+    background-color: azure;
+    border-bottom: 1px solid;
+    padding: 10px;
+}
+
+#c2 {
+    width: 50%;
+    height: 250px;
+    display: flex;
+    color: black;
+    font-size: 20px;
+    text-align: initial;
+    text-align: right;
+    background-color: azure;
+    border-bottom: 1px solid;
+    padding: 10px;
+}
+
+#footer {
+    display: flex;
+    flex-direction: row;
+    width: 1500px;
+    background-color: azure;
+}
+
+#f1 {
+    text-align: left;
+    width: 50%;
+    height: 30px;
+}
+
+#f2 {
+    text-align: right;
+    width: 50%;
+    height: 30px;
+}
